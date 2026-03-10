@@ -1,2 +1,2 @@
 # Microservices
-This is a social media microservice project.
+This is a GCP microservice project.
